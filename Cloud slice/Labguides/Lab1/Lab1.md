@@ -481,7 +481,11 @@ assets.
 > ![A screenshot of a computer AI-generated content may be
 > incorrect.](./media/image76.png)
 
-[TABLE]
+| Field                   | Value                                                                 |
+|------------------------|-----------------------------------------------------------------------|
+| Name                   | +++ Fabric_Migration567850+++ (XX can be a unique number; add more if needed) |
+| Advanced               | Select Fabric                                                         |
+| Default storage format | Small dataset storage format  
 
 3.  On the **Create a workspace** pane that appears to the right, enter
     the following details, and then click **Apply**.
