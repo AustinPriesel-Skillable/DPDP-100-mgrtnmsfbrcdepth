@@ -85,7 +85,7 @@ will be using throughout the lab.
 
     - **Username** – +++@lab.CloudPortalCredential(User1).Username+++
 
-    - **Password** – +++@lab.CloudPortalCredential(User1).Password+++
+    - **Password** – +++@lab.CloudPortalCredential(User1).AccessCode+++
 
     - **Resource Group** – @lab.CloudResourceGroup(ResourceGroup1).Name
 
