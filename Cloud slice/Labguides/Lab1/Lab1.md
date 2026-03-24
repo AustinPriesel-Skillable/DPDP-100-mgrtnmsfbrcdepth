@@ -112,7 +112,7 @@ will be using throughout the lab.
 	![A screenshot of a login box Description automatically generated](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image4.png)
 
 2.  In the search bar enter +++Synapse+++ and select **Azure Synapse
-    Analytics.** Search for **Synapse Analytics**.
+    Analytics.** Search for +++Synapse Analytics+++.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image5.png)
 
@@ -133,9 +133,9 @@ will be using throughout the lab.
 
     5.  **Region**: @lab.CloudResourceGroup(ResourceGroup1).Location
 
-	- **Select Data Lake Storage Gen2 account:** Create new
+	- **Select Data Lake Storage Gen2 account:** *Create new*
 
-  1.  **Account name**: +++fabricsynapsegen2-@lab.labinstance.ID+++
+  1.  **Account name**: +++synapsegen2-@lab.labinstance.ID+++
 
   2.  Click **OK**
 
@@ -143,37 +143,37 @@ will be using throughout the lab.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image8.png)
 
-5.  Enter below details and then click on **Next:Security**.
-
-	**File System Name**: *Create New*: +++synapsefile@lab.labinstance.ID+++ and click **OK**.
+5.  **File System Name:** *Create New*: +++synapsefile@lab.LabInstance.ID+++ and click OK. 
 
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image9.png)
 
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image10.png)
 
-6.  Configure the **Security** settings by selecting **both Microsoft
+6.  click on **Next:Security**.
+
+8.  Configure the **Security** settings by selecting **both Microsoft
     Entra ID and SQL authentication**, then provide a valid **SQL admin
     username**: +++sqladmin+++ and **password**: +++password321!+++ to enable secure
     access to the Azure Synapse workspace.
 
-7.  Click **Review + create**
+9.  Click **Review + create**
 
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image11.png)
 
-8.  In the **Review + submit** tab, once the Validation is Passed, click
+10.  In the **Review + submit** tab, once the Validation is Passed, click
     on the **Create** button.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image12.png)
 
-9.  This deployment may take a few minutes.
+11.  This deployment may take a few minutes.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image13.png)
 
-10. Click on **Go to resource group** button.
+11. Click on **Go to resource group** button.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image14.png)
 
-11. Click on your **Synapse workspace**.
+12. Click on your **Synapse workspace**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image15.png)
 
@@ -209,6 +209,8 @@ will be using throughout the lab.
 5.  In the **Review + submit** tab, once the Validation is Passed, click
     on the **Create** button.
 
+	>[!Note] This will take up to 5 minutes to confirm the SQL pool shows online. 
+
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image20.png)
 
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image21.png)
@@ -242,8 +244,7 @@ in the primary storage account you created for the workspace.
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image24.png)
 
 2.  Under the category **Azure Data Lake Storage Gen2** you'll see an
-    item with your workspace name like **fabric-synapse@lab.LabInstance.ID ( Primary
-    -- asastorageaccount01(your storageaccount)**
+    item with your workspace name: **fabric-synapse@lab.LabInstance.ID (Primary)**
 
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image25.png)
 
