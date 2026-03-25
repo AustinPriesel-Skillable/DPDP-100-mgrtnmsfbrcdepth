@@ -36,7 +36,7 @@ By completing this lab, you will be able to:
 
 ## Task 1: Create Azure Data Factory
 
-1.  Open a browser go to +++ sign in with your cloud slice account
+1.  Open a browser go to +++https://portal.azure.com+++ sign in with your cloud slice account
     below.
 
 	Username: +++@lab.CloudPortalCredential(User1).Username+++
