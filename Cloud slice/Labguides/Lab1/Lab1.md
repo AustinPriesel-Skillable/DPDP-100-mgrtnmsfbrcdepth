@@ -301,18 +301,14 @@ in the primary storage account you created for the workspace.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image41.png)
 
-	URL: +++https://fabricsynapsegen2.dfs.core.windows.net/synapsefile/NYCTripSmall.parquet+++
-
-	**ABFSS Path:
-	abfss://synapsefile@fabricsynapsegen2.dfs.core.windows.net/NYCTripSmall.parquet**
 
 ## Task 4: Integrate with pipelines
 
-1.  **In Synapse Studio,** click on** Integrate hub.**
+1.  In Synapse Studio, click on **Integrate hub.**
 
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image42.png)
 
-2.  Select** + Pipeline **to create a new pipeline**.**
+2.  Select **+ Pipeline** to create a new pipeline.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image43.png)
 
@@ -323,7 +319,7 @@ in the primary storage account you created for the workspace.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image45.png)
 
-4.  On the **Source** page, select **+** **New**
+4.  On the **Source** page, select **+ New**
 
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image46.png)
 
