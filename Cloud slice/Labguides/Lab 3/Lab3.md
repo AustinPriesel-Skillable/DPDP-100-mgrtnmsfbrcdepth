@@ -205,8 +205,8 @@ Open Synapse Studio
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab%203/media/image24.png)
 
 2.  Under the category **Azure Data Lake Storage Gen2** you'll see an
-    item with your workspace name like **fabric-synapseXXXXX ( Primary
-    -- asastorageaccount01(your storageaccount)**
+    item with your workspace name like **fabric-synapse@Lab.LabInstance.ID (Primary
+    -- synapsegen2@lab.LabInstance.ID**
 
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab%203/media/image25.png)
 
