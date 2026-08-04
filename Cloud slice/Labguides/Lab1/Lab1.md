@@ -1,3 +1,15 @@
+---
+lab:
+  title: 'Lab 1: Migrate data from Azure Synapse Analytics to Fabric Data Warehouse'
+  description: Throughout this lab, you will create and configure Azure Synapse components, ingest sample datasets, integrate them through pipelines, set up a new Fabric workspace, and use the Fabric Migration Assistant to seamlessly migrate metadata and data into the Fabric Data Warehouse. You will also learn to reroute dependent analytical tools and processes to the migrated environment, ensuring business continuity.
+  duration: 5 minutes
+  level: 300
+  islab: true
+  primarytopics:
+    - Azure
+    - Azure Synapse Analytics
+---
+
 ## Lab 1: Migrate data from Azure Synapse Analytics to Fabric Data Warehouse
 **Introduction**
 
