@@ -1,3 +1,16 @@
+---
+lab:
+  title: 'Lab 2: Migrate Azure Synapse Analytics SQL objects to Fabric Data Warehouse'
+  description: In this lab, you successfully migrated data from Azure Synapse Analytics to Microsoft Fabric Data Warehouse. You created a new warehouse, configured a pipeline with a Synapse SQL source, and loaded data into Fabric using OneLake. After executing the pipeline, you validated the data by comparing row counts between Synapse and Fabric. Finally, you scheduled the pipeline to automate recurring data transfers, ensuring a streamlined and scalable migration process.
+  duration: 96 minutes
+  level: 300
+  islab: true
+  primarytopics:
+    - Azure
+    - Azure Synapse Analytics
+    - Microsoft Fabric
+---
+
 ## **Lab 2: Migrate Azure Synapse Analytics SQL objects to Fabric Data Warehouse**
 
 **Introduction**
