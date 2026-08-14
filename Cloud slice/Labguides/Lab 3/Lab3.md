@@ -1,3 +1,18 @@
+---
+lab:
+  title: Lab 03 - Migrating Azure Synapse Spark and Lake Database to Microsoft Fabric
+  description: In this lab, you will learn how to migrate data and workloads from Azure Synapse Analytics to Microsoft Fabric. The lab covers creating and configuring a Synapse workspace, uploading and accessing data from Azure Data Lake Storage Gen2, and setting up a Microsoft Fabric workspace with a Lakehouse.
+  duration: 5 minutes
+  level: 400
+  islab: true
+  primarytopics:
+    - Azure
+    - Azure Data Lake
+    - Azure Data Lake Storage
+    - Azure Synapse Analytics
+    - Microsoft Fabric
+---
+
 ## **Lab 03 - Migrating Azure Synapse Spark and Lake Database to Microsoft Fabric**
 
 **Introduction**

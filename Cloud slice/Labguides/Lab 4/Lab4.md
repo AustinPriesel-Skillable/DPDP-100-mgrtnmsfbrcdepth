@@ -1,3 +1,16 @@
+---
+lab:
+  title: Lab 4- Migrate Azure Data Factory Pipelines to Fabric Data Factory
+  description: In modern data engineering solutions, organizations are increasingly adopting unified analytics platforms like Microsoft Fabric to streamline data integration and processing. This lab provides hands-on experience in migrating existing Azure Data Factory (ADF) pipelines to Microsoft Fabric Data Factory. You will explore how to deploy an ADF instance, run and monitor pipelines, and then seamlessly migrate those pipelines into a Fabric workspace. By the end of this lab, you will understand the migration workflow, validate pipeline functionality in Fabric, and leverage OneLake for data storage and processing.
+  duration: 5 minutes
+  level: 300
+  islab: true
+  primarytopics:
+    - Azure
+    - Azure Data Factory
+    - Microsoft Fabric
+---
+
 ## **Lab 4- Migrate Azure Data Factory Pipelines to Fabric Data Factory**
 
 **Introduction**
