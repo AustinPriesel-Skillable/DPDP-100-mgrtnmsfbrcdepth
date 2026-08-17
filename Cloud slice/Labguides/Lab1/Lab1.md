@@ -338,7 +338,7 @@ We are going to use a small 100K row sample dataset of NYX Taxi Cab data for man
 
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image58.png)
 
-1. In the Set Properties window, the table name is manually specified as +++dbo.fabric+++, the Import schema option is set to 'None', and the configuration is confirmed by selecting **OK**
+1. In the Set Properties window, the table name is manually specified as +++dbo+++ and +++fabric+++, the Import schema option is set to 'None', and the configuration is confirmed by selecting **OK**
 
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image59.png)
 
