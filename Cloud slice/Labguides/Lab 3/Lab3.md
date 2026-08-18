@@ -103,7 +103,7 @@ In this task, we will identify and understand the credentials that we will be us
 
         - **Select Data Lake Storage Gen2 account:** *Create new* Account name and File System name
         - **Account name**: +++synapsegen2@lab.LabInstance.Id+++
-        - **File System Name:** **synapsefile@lab.LabInstance.Id**
+        - **File System Name:** +++synapsefile@lab.LabInstance.Id+++
 
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image7.png)
 
