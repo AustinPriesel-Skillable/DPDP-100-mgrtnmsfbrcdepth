@@ -101,21 +101,19 @@ In this task, we will identify and understand the credentials that we will be us
 
     1. **Region**: @lab.CloudResourceGroup(ResourceGroup1).Location
 
-        - **Select Data Lake Storage Gen2 account:** *Create new*
-
-    1. **Account name**: +++synapsegen2@lab.LabInstance.Id+++
-
-    1. Click **OK**
+        - **Select Data Lake Storage Gen2 account:** *Create new* Account name and File System name
+        - **Account name**: +++synapsegen2@lab.LabInstance.Id+++
+        - **File System Name:** **synapsefile@lab.LabInstance.Id**
 
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image7.png)
 
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image8.png)
 
-1. **File System Name:** *Create New*: **synapsefile@lab.LabInstance.Id** and click OK.
-
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image9.png)
 
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image10.png)
+
+    1. Click **OK**
 
 1. click on **Next:Security**.
 
