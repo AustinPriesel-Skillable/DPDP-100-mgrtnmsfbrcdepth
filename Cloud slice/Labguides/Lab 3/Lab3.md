@@ -97,13 +97,13 @@ In this task, we will identify and understand the credentials that we will be us
 
     1. **Managed Resource group:**  Leave this blank.
 
-    1. **Workspace name**: +++fabric-synapse@lab.LabInstance.Id+++
+    1. **Workspace name**: **fabric-synapse@lab.LabInstance.Id**
 
     1. **Region**: @lab.CloudResourceGroup(ResourceGroup1).Location
 
         - **Select Data Lake Storage Gen2 account:** *Create new* Account name and File System name
-        - **Account name**: +++synapsegen2@lab.LabInstance.Id+++
-        - **File System Name:** +++synapsefile@lab.LabInstance.Id+++
+        - **Account name**: **synapsegen2@lab.LabInstance.Id**
+        - **File System Name:** **synapsefile@lab.LabInstance.Id**
 
     ![](https://raw.githubusercontent.com/technofocus-pte/mgrtnmsfbrcdepth/refs/heads/main/Cloud%20slice/Labguides/Lab1/media/image7.png)
 
@@ -119,9 +119,9 @@ In this task, we will identify and understand the credentials that we will be us
 
 1. Configure the **Security** settings by selecting **both Microsoft Entra ID and SQL authentication**, then provide:
 
-    - **SQL admin username**: +++sqladmin+++
+    - **SQL admin username**: **sqladmin**
   
-    - **password**: +++password321!+++
+    - **password**: **password321!**
 
 1. Click **Review + create**
 
@@ -153,7 +153,7 @@ In this task, we will identify and understand the credentials that we will be us
 
 1. Enter the following details:
 
-    - **SQL pool name:** +++sql dedicated pool+++
+    - **SQL pool name:** **sql dedicated pool**
 
     - **Performance level:** Choose DW100c (or any required level for training)
 
